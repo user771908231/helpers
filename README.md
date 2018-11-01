@@ -15,7 +15,7 @@ Login using `admin/admin`
 ## Installation
 
 ```
-$ composer require laravel-admin-ext/helpers
+$ composer require user771908231-ext/helpers
 
 $ php artisan admin:import helpers
 ```
